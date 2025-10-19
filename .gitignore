@@ -2,11 +2,4 @@ node_modules/
 infoWebSoftware/
 package.json
 package-lock.json
- array.js
-costructor.js
-dateAndMath.js
-functions.js
-higherOrderLoops.js
-objects.js
-promises.js
-promises1.js
+ 
